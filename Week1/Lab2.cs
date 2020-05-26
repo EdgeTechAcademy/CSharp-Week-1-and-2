@@ -2,7 +2,7 @@
 
 namespace Week1
 {
-    class Program
+    class Lab2
     {
         /*
             Project:    Lab 2 Calculate Batting Average
