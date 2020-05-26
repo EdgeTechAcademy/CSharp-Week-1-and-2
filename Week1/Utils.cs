@@ -61,16 +61,5 @@ namespace Week1
             } while (num > max);
             return num;
         }
-
-        static void Main(string[] args)
-        {
-            string msg = GetInput("Enter a message: ");
-            int max = GetNumber("Enter Max Number: ");
-            int num = GetNumber("Enter Number < " + max + " ", max);
-            float flt = GetFloat("Enter a Float: ");
-
-            Console.WriteLine("You entered the following info : {0} - {1} - {2}", msg, num, flt);
-        }
-
     }
 }
