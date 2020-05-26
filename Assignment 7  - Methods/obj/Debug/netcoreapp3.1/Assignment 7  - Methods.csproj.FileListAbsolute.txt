@@ -1,0 +1,13 @@
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - Methods.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - Methods.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - Methods.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - Methods.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - Methods.exe
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - Methods.deps.json
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - Methods.runtimeconfig.json
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - Methods.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - Methods.dll
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - Methods.pdb
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - Methods.dll
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - Methods.pdb
+C:\Projects\SD104-CSharp\SD104-CSharp\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - Methods.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6ymKLQl4sCUPbxlcb0qPsXHgI70k6/7PYBnG64hf2d46Bu5Xq1SjZ829LN4BxUQVgfNx6QEVTnQUUIaHA7Emw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - Reverse Array\\Lab - Reverse Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

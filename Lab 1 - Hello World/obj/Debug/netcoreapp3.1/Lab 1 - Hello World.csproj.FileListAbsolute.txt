@@ -1,0 +1,13 @@
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\bin\Debug\netcoreapp3.1\Lab 1 - Hello World.exe
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\bin\Debug\netcoreapp3.1\Lab 1 - Hello World.deps.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\bin\Debug\netcoreapp3.1\Lab 1 - Hello World.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\bin\Debug\netcoreapp3.1\Lab 1 - Hello World.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\bin\Debug\netcoreapp3.1\Lab 1 - Hello World.dll
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\bin\Debug\netcoreapp3.1\Lab 1 - Hello World.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\obj\Debug\netcoreapp3.1\Lab 1 - Hello World.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\obj\Debug\netcoreapp3.1\Lab 1 - Hello World.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\obj\Debug\netcoreapp3.1\Lab 1 - Hello World.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\obj\Debug\netcoreapp3.1\Lab 1 - Hello World.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\obj\Debug\netcoreapp3.1\Lab 1 - Hello World.dll
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\obj\Debug\netcoreapp3.1\Lab 1 - Hello World.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab 1 - Hello World\obj\Debug\netcoreapp3.1\Lab 1 - Hello World.genruntimeconfig.cache

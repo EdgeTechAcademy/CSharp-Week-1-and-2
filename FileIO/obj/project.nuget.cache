@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0r8WZsBdo1UlpLs4HIuYR53pFfq66d/7QRiCmK2/MPSo5OihD+EHxJ1wJS0hWhuczYYxVXAkeusJ4xlSXBMIyw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\FileIO\\Lab - Working With StreamReader and Writer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

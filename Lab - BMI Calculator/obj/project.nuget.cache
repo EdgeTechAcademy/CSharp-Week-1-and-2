@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1UUp42PiHww+mYxc3fyXoeE958o3hukDJf2xtC8UiqjKuE2gCSj81HsW3yF6afIfnGtvWXjFlzKnTBQYqnuiIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - BMI Calculator\\Lab 3 - BMI Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

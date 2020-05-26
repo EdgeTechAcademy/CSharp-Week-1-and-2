@@ -1,0 +1,12 @@
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\bin\Debug\netcoreapp2.0\Lab - Fibonnacci.deps.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\bin\Debug\netcoreapp2.0\Lab - Fibonnacci.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\bin\Debug\netcoreapp2.0\Lab - Fibonnacci.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\bin\Debug\netcoreapp2.0\Lab - Fibonnacci.dll
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\bin\Debug\netcoreapp2.0\Lab - Fibonnacci.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\obj\Debug\netcoreapp2.0\Lab - Fibonnacci.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\obj\Debug\netcoreapp2.0\Lab - Fibonnacci.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\obj\Debug\netcoreapp2.0\Lab - Fibonnacci.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\obj\Debug\netcoreapp2.0\Lab - Fibonnacci.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\obj\Debug\netcoreapp2.0\Lab - Fibonnacci.dll
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\obj\Debug\netcoreapp2.0\Lab - Fibonnacci.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Fibonnacci\obj\Debug\netcoreapp2.0\Lab - Fibonnacci.genruntimeconfig.cache

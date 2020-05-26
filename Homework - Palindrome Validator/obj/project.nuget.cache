@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pO3beP3yWsllx13XI//UlqKC4W3WlRSw1QmB7MdEnDA1OxThAkmxKWUYLBYRizox9vbAt4b+QRjpiy76pY0+vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Homework - Palindrome Validator\\Homework - Palindrome Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\gtjam\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

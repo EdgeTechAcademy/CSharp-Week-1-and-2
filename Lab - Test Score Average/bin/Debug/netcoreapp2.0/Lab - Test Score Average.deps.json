@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Lab - Test Score Average/1.0.0": {
+        "runtime": {
+          "Lab - Test Score Average.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab - Test Score Average/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

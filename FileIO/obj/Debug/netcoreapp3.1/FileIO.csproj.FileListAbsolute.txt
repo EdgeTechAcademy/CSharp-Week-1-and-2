@@ -1,0 +1,26 @@
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\bin\Debug\netcoreapp3.1\FileIO.exe
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\bin\Debug\netcoreapp3.1\FileIO.deps.json
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.json
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\bin\Debug\netcoreapp3.1\FileIO.dll
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\bin\Debug\netcoreapp3.1\FileIO.pdb
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\obj\Debug\netcoreapp3.1\FileIO.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\obj\Debug\netcoreapp3.1\FileIO.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\obj\Debug\netcoreapp3.1\FileIO.dll
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\obj\Debug\netcoreapp3.1\FileIO.pdb
+C:\Projects\SD104-CSharp\SD104-CSharp\FileIO\obj\Debug\netcoreapp3.1\FileIO.genruntimeconfig.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\bin\Debug\netcoreapp3.1\FileIO.exe
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\bin\Debug\netcoreapp3.1\FileIO.deps.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\bin\Debug\netcoreapp3.1\FileIO.dll
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\bin\Debug\netcoreapp3.1\FileIO.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\obj\Debug\netcoreapp3.1\FileIO.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\obj\Debug\netcoreapp3.1\FileIO.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\obj\Debug\netcoreapp3.1\FileIO.dll
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\obj\Debug\netcoreapp3.1\FileIO.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\FileIO\obj\Debug\netcoreapp3.1\FileIO.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\bin\Debug\netcoreapp2.0\Lab - BMI Calculator.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\bin\Debug\netcoreapp2.0\Lab - BMI Calculator.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\bin\Debug\netcoreapp2.0\Lab - BMI Calculator.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\bin\Debug\netcoreapp2.0\Lab - BMI Calculator.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\bin\Debug\netcoreapp2.0\Lab - BMI Calculator.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\bin\Debug\netcoreapp2.0\Lab - BMI Calculator.deps.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\bin\Debug\netcoreapp2.0\Lab - BMI Calculator.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\bin\Debug\netcoreapp2.0\Lab - BMI Calculator.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\bin\Debug\netcoreapp2.0\Lab - BMI Calculator.dll
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\bin\Debug\netcoreapp2.0\Lab - BMI Calculator.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.dll
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - BMI Calculator\obj\Debug\netcoreapp2.0\Lab - BMI Calculator.genruntimeconfig.cache

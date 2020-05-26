@@ -1,0 +1,12 @@
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\bin\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.deps.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\bin\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\bin\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\bin\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.dll
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\bin\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\obj\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\obj\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\obj\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\obj\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\obj\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.dll
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\obj\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.pdb
+C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Average of Bats\obj\Debug\netcoreapp2.0\Lab 2 - Using Variables and Arithmetic Operators.genruntimeconfig.cache
