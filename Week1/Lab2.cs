@@ -26,8 +26,7 @@ namespace Week1
             strPlayerName = Console.ReadLine();                 //  or we could use the Utils class strPlayerName = Utils.GetInput("Enter player's name");
 
             //  prompt for hits and at bats
-            Console.Write("Enter the player's # of hits: ");
-            nHits = Convert.ToInt32(Console.ReadLine());        //  or we could use the Utils class Hits = Utils.GetNumber("Enter the player's # of hits: ");
+           nHits = Utils.GetNumber("Enter the player's # of hits: ");       //  or we could use the Utils class Hits = Utils.GetNumber("Enter the player's # of hits: ");
 
             Console.Write("Enter the player's # of at bats: ");
             nAtBats = Convert.ToInt32(Console.ReadLine()); // or we could use the Utils class Hits = Utils.GetNumber("Enter the player's # of at bats: ");
