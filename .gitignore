@@ -29,3 +29,31 @@
 /Lab - BMI Calculator/obj/Debug/netcoreapp2.0
 /Practice Additional/obj/Debug/netcoreapp3.1
 /Practice Extra with Loops/bin/Debug/netcoreapp3.1
+*.cache
+*.dll
+/Conditional Problems/obj/Debug/netcoreapp3.1/Conditional Problems.exe
+/Conditional Problems/obj/Debug/netcoreapp3.1/Conditional Problems.csproj.FileListAbsolute.txt
+/Conditional Problems/obj/Debug/netcoreapp3.1/Conditional Problems.pdb
+/FileIO/obj/Debug/netcoreapp3.1
+/HW 2 - Greatest Common Divisor/obj/Debug/netcoreapp3.1/HW 2 - Greatest Common Divisor.csproj.FileListAbsolute.txt
+/HW 2 - Greatest Common Divisor/obj/Debug/netcoreapp3.1
+/HW Day 2 - Conditional Practice/obj/Debug/netcoreapp3.1
+/Practice Extra with Loops/obj/Debug/netcoreapp3.1/Practice Extra with Loops.csproj.FileListAbsolute.txt
+/Practice Extra with Loops/obj/Debug/netcoreapp3.1/Practice Extra with Loops.exe
+/Practice Extra with Loops/obj/Debug/netcoreapp3.1/Practice Extra with Loops.pdb
+/Lab - Fibonnacci/bin/Debug/netcoreapp2.0/HW 2 - Fibonacci.deps.json
+/Lab - Fibonnacci/bin/Debug/netcoreapp2.0
+/Assignment 7  - Methods/obj/Release/netcoreapp3.1
+/FileIO/obj/Release/netcoreapp3.1
+/Conditional Problems/obj/Release/netcoreapp3.1
+/Week1/bin/Debug/netcoreapp3.1
+/Week1/obj/Release/netcoreapp3.1
+/Practice Looping/obj/Release/netcoreapp3.1
+/Practice Extra with Loops/obj/Release/netcoreapp3.1
+/Lab 1 - Hello World/obj/Release/netcoreapp3.1
+/Lab 6 - Parallel Arrays/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+/Lab 6 - Parallel Arrays/obj/Release/netcoreapp3.1/Lab 6 - Parallel Arrays.AssemblyInfo.cs
+/Practice Additional/obj/Release/netcoreapp3.1
+/HW 2 - Greatest Common Divisor/obj/Release/netcoreapp3.1
+/HW Day 2 - Conditional Practice/obj/Release/netcoreapp3.1/HW Day 2 - Conditional Practice.AssemblyInfo.cs
+/HW Day 2 - Conditional Practice/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
