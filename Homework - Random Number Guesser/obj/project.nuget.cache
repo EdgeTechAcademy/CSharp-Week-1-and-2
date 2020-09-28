@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ikot1E53gPXcylZZu0RN4nnySvf+M0jomihcrlBqE9ySa3/dG80GK3v9On6HETnwlRPB6J6dTU2CU13xIn6A9w==",
+  "dgSpecHash": "kdJyKmr973vR7fj/1bTMzFXyODg5pVbievIrOShEUxYDOXjCzwYMLhK+6zAvwxp90qZrUc7ZwKVobDrpsBSLAw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Homework - Random Number Guesser\\Homework - Random Number Guesser.csproj",
+  "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Homework - Random Number Guesser\\Lab 5 - Guess My Number.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",

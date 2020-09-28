@@ -11,3 +11,16 @@ C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Assignment 7  - Methods\obj\D
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.dll
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.pdb
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.genruntimeconfig.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.exe
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.deps.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\bin\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Assignment 7  - Methods\obj\Debug\netcoreapp3.1\Assignment 7  - GetDatePart Methods.genruntimeconfig.cache

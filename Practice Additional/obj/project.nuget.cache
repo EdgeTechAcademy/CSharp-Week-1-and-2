@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kYZ824YIkKlFO6dZmm0jpHKIrNeWgG7hYgErT3tod65WANV2ZnvClcJ7PZXIfG1TSCCTo2xNwit7eS/J1l+fTg==",
+  "dgSpecHash": "KPcSKuSMbVqmYnNXNgHpdUZFJlinIlld3lDhOX0/ENRq9sgvEtQsk4YZreXQd52EBfGCk2cFRrjf+MgrKYslWA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Practice Additional\\Practice Additional.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

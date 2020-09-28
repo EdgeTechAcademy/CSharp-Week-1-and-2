@@ -32,3 +32,15 @@ C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Factorial\obj\Debu
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.dll
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.pdb
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.genruntimeconfig.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\bin\Debug\netcoreapp2.0\Homework - Factorial.deps.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\bin\Debug\netcoreapp2.0\Homework - Factorial.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\bin\Debug\netcoreapp2.0\Homework - Factorial.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\bin\Debug\netcoreapp2.0\Homework - Factorial.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\bin\Debug\netcoreapp2.0\Homework - Factorial.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.genruntimeconfig.cache

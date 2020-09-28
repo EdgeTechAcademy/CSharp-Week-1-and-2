@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JWesaCawioVJv/1lwS2e/dFycApQs/B2jnSsg3jGAlzG6VfbBh9GGPldJ7Y3rtpi7Ktw4/QO0RYfuPnO3qK87A==",
+  "dgSpecHash": "wdWyKqIvRA7dT9ZWgjT3FW4zNPx0f6IAEWoESqzMS8QcbLjuOxgjBjt9YTcG/50DO+8VrB60KBeCTZ0lcjoeMg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - Average of Bats\\Lab 2 - Using Variables and Arithmetic Operators.csproj",
+  "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - Average of Bats\\Lab 2 - Batting Averages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",

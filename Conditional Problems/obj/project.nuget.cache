@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JueVCVJJRtSWlHRtNhKH7UUuwfSd+6RBS8cNbFkF1dw5rKhLucU0+E2Lb9h/3u60utLG479+RQOE+aBnsDftHQ==",
+  "dgSpecHash": "zEKL50BeDfOBetTzqzPUzIoYWfEaX+BB/KsfZjU15A0MFqBkqxpAu5W02qIAS2B0Oug8zdXOa1A1AUHsoQAZeQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Conditional Problems\\Conditional Problems.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

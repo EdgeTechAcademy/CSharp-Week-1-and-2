@@ -21,3 +21,15 @@ C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Reverse Array\obj\Debug
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Reverse Array\obj\Debug\netcoreapp2.0\Lab - Reverse Array.dll
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Reverse Array\obj\Debug\netcoreapp2.0\Lab - Reverse Array.pdb
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Reverse Array\obj\Debug\netcoreapp2.0\Lab - Reverse Array.genruntimeconfig.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\bin\Debug\netcoreapp2.0\Lab - Reverse Array.deps.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\bin\Debug\netcoreapp2.0\Lab - Reverse Array.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\bin\Debug\netcoreapp2.0\Lab - Reverse Array.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\bin\Debug\netcoreapp2.0\Lab - Reverse Array.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\bin\Debug\netcoreapp2.0\Lab - Reverse Array.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\obj\Debug\netcoreapp2.0\Lab - Reverse Array.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\obj\Debug\netcoreapp2.0\Lab - Reverse Array.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\obj\Debug\netcoreapp2.0\Lab - Reverse Array.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\obj\Debug\netcoreapp2.0\Lab - Reverse Array.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\obj\Debug\netcoreapp2.0\Lab - Reverse Array.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\obj\Debug\netcoreapp2.0\Lab - Reverse Array.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Reverse Array\obj\Debug\netcoreapp2.0\Lab - Reverse Array.genruntimeconfig.cache

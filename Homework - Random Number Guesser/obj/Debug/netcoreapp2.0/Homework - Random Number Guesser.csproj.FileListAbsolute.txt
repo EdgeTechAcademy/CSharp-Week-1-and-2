@@ -20,3 +20,15 @@ C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Random Number Gues
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.dll
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.pdb
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.genruntimeconfig.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\bin\Debug\netcoreapp2.0\Homework - Random Number Guesser.deps.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\bin\Debug\netcoreapp2.0\Homework - Random Number Guesser.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\bin\Debug\netcoreapp2.0\Homework - Random Number Guesser.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\bin\Debug\netcoreapp2.0\Homework - Random Number Guesser.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\bin\Debug\netcoreapp2.0\Homework - Random Number Guesser.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.genruntimeconfig.cache

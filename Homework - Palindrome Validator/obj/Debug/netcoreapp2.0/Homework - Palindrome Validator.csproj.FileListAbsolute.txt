@@ -20,3 +20,15 @@ C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Palindrome Validat
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Palindrome Validator\obj\Debug\netcoreapp2.0\Homework - Palindrome Validator.dll
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Palindrome Validator\obj\Debug\netcoreapp2.0\Homework - Palindrome Validator.pdb
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Homework - Palindrome Validator\obj\Debug\netcoreapp2.0\Homework - Palindrome Validator.genruntimeconfig.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\bin\Debug\netcoreapp2.0\Homework - Palindrome Validator.deps.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\bin\Debug\netcoreapp2.0\Homework - Palindrome Validator.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\bin\Debug\netcoreapp2.0\Homework - Palindrome Validator.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\bin\Debug\netcoreapp2.0\Homework - Palindrome Validator.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\bin\Debug\netcoreapp2.0\Homework - Palindrome Validator.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\obj\Debug\netcoreapp2.0\Homework - Palindrome Validator.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\obj\Debug\netcoreapp2.0\Homework - Palindrome Validator.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\obj\Debug\netcoreapp2.0\Homework - Palindrome Validator.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\obj\Debug\netcoreapp2.0\Homework - Palindrome Validator.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\obj\Debug\netcoreapp2.0\Homework - Palindrome Validator.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\obj\Debug\netcoreapp2.0\Homework - Palindrome Validator.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Palindrome Validator\obj\Debug\netcoreapp2.0\Homework - Palindrome Validator.genruntimeconfig.cache

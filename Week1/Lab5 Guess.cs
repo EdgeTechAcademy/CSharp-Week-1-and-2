@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Week1
 {
-    class GuessNumber
+    class Lab5
     {
         static void Main(string[] args)
         {

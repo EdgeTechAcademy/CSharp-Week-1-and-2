@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Modulo_Function
+namespace GuessNumber
 {
     class Program
     {

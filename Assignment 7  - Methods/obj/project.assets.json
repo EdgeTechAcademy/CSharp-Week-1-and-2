@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Assignment 7  - Methods\\Assignment 7  - GetDatePart Methods.csproj",
-      "projectName": "Assignment 7  - GetDatePart Methods",
-      "projectPath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Assignment 7  - Methods\\Assignment 7  - GetDatePart Methods.csproj",
+      "projectUniqueName": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Assignment 7  - Methods\\Assignment 8  - GetDatePart Methods.csproj",
+      "projectName": "Assignment 8  - GetDatePart Methods",
+      "projectPath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Assignment 7  - Methods\\Assignment 8  - GetDatePart Methods.csproj",
       "packagesPath": "C:\\Users\\gtjam\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Assignment 7  - Methods\\obj\\",
       "projectStyle": "PackageReference",
@@ -57,18 +57,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

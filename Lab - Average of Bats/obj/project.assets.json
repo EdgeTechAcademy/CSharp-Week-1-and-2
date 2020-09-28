@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - Average of Bats\\Lab 2 - Using Variables and Arithmetic Operators.csproj",
-      "projectName": "Lab 2 - Using Variables and Arithmetic Operators",
-      "projectPath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - Average of Bats\\Lab 2 - Using Variables and Arithmetic Operators.csproj",
+      "projectUniqueName": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - Average of Bats\\Lab 2 - Batting Averages.csproj",
+      "projectName": "Lab 2 - Batting Averages",
+      "projectPath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - Average of Bats\\Lab 2 - Batting Averages.csproj",
       "packagesPath": "C:\\Users\\gtjam\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - Average of Bats\\obj\\",
       "projectStyle": "PackageReference",
@@ -721,7 +721,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

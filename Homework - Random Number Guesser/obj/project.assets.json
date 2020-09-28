@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Homework - Random Number Guesser\\Homework - Random Number Guesser.csproj",
-      "projectName": "Homework - Random Number Guesser",
-      "projectPath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Homework - Random Number Guesser\\Homework - Random Number Guesser.csproj",
+      "projectUniqueName": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Homework - Random Number Guesser\\Lab 5 - Guess My Number.csproj",
+      "projectName": "Lab 5 - Guess My Number",
+      "projectPath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Homework - Random Number Guesser\\Lab 5 - Guess My Number.csproj",
       "packagesPath": "C:\\Users\\gtjam\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Homework - Random Number Guesser\\obj\\",
       "projectStyle": "PackageReference",
@@ -721,7 +721,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

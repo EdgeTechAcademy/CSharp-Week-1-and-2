@@ -10,3 +10,15 @@ C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Find the Max and Min\ob
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Find the Max and Min\obj\Debug\netcoreapp2.0\Lab - Find the Max and Min.dll
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Find the Max and Min\obj\Debug\netcoreapp2.0\Lab - Find the Max and Min.pdb
 C:\Projects\SD104-CSharp\Week 2 Arrays and Methods\Lab - Find the Max and Min\obj\Debug\netcoreapp2.0\Lab - Find the Max and Min.genruntimeconfig.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\bin\Debug\netcoreapp2.0\Lab - Find the Max and Min.deps.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\bin\Debug\netcoreapp2.0\Lab - Find the Max and Min.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\bin\Debug\netcoreapp2.0\Lab - Find the Max and Min.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\bin\Debug\netcoreapp2.0\Lab - Find the Max and Min.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\bin\Debug\netcoreapp2.0\Lab - Find the Max and Min.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\obj\Debug\netcoreapp2.0\Lab - Find the Max and Min.csprojAssemblyReference.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\obj\Debug\netcoreapp2.0\Lab - Find the Max and Min.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\obj\Debug\netcoreapp2.0\Lab - Find the Max and Min.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\obj\Debug\netcoreapp2.0\Lab - Find the Max and Min.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\obj\Debug\netcoreapp2.0\Lab - Find the Max and Min.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\obj\Debug\netcoreapp2.0\Lab - Find the Max and Min.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Lab - Find the Max and Min\obj\Debug\netcoreapp2.0\Lab - Find the Max and Min.genruntimeconfig.cache

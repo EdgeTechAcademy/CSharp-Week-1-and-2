@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assignment_7____Methods
+namespace Assignment_8
 {
     class Program
     {

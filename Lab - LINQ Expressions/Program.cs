@@ -27,7 +27,7 @@ namespace Lab___LINQ_Expressions
             //(3 pts) Create a list of the numbers greater than or equal to 7
             var biggerThan7 = smallNumbers.Where(num => num >= 7);
             //(3 pts) What is the sum of all the numbers in the list?
-            total = smallNumbers.Sum();
+            var takeAfter4 = smallNumbers.SkipWhile(n => n != 4);
             //(3 pts) Do this with Sum and do it with Aggregate
             total = smallNumbers.Aggregate((total, num) => total += num);
             //(3 pts) Create a list of the unique elements of the list

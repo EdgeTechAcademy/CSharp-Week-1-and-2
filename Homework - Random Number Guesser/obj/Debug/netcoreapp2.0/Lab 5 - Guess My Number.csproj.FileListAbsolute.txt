@@ -1,0 +1,11 @@
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\bin\Debug\netcoreapp2.0\Lab 5 - Guess My Number.deps.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\bin\Debug\netcoreapp2.0\Lab 5 - Guess My Number.runtimeconfig.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\bin\Debug\netcoreapp2.0\Lab 5 - Guess My Number.runtimeconfig.dev.json
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\bin\Debug\netcoreapp2.0\Lab 5 - Guess My Number.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\bin\Debug\netcoreapp2.0\Lab 5 - Guess My Number.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Lab 5 - Guess My Number.AssemblyInfoInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Lab 5 - Guess My Number.AssemblyInfo.cs
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Lab 5 - Guess My Number.csproj.CoreCompileInputs.cache
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Lab 5 - Guess My Number.dll
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Lab 5 - Guess My Number.pdb
+C:\Projects\SD104-CSharp\Week 1 and 2\Homework - Random Number Guesser\obj\Debug\netcoreapp2.0\Lab 5 - Guess My Number.genruntimeconfig.cache

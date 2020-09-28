@@ -14,9 +14,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework - Factorial", "Hom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework - Palindrome Validator", "Homework - Palindrome Validator\Homework - Palindrome Validator.csproj", "{736157D7-B94C-4CBB-B2E1-1161EAF64FC6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework - Random Number Guesser", "Homework - Random Number Guesser\Homework - Random Number Guesser.csproj", "{DF779BCB-D037-4B33-9517-765EFE42B76C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 5 - Guess My Number", "Homework - Random Number Guesser\Lab 5 - Guess My Number.csproj", "{DF779BCB-D037-4B33-9517-765EFE42B76C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 2 - Using Variables and Arithmetic Operators", "Lab - Average of Bats\Lab 2 - Using Variables and Arithmetic Operators.csproj", "{2009F38C-87E8-482B-93FC-315D5C9BCA28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 2 - Batting Averages", "Lab - Average of Bats\Lab 2 - Batting Averages.csproj", "{2009F38C-87E8-482B-93FC-315D5C9BCA28}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 3 - BMI Calculator", "Lab - BMI Calculator\Lab 3 - BMI Calculator.csproj", "{F0841E16-751B-4E58-B092-A2D2A5476892}"
 EndProject
@@ -30,9 +30,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab - Reverse Array", "Lab 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab - Test Score Average", "Lab - Test Score Average\Lab - Test Score Average.csproj", "{D0C20C70-C137-47EE-B853-4321D32C0014}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment 7  - GetDatePart Methods", "Assignment 7  - Methods\Assignment 7  - GetDatePart Methods.csproj", "{8C8E305C-55AB-434C-B86B-3815373A2D14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment 8  - GetDatePart Methods", "Assignment 7  - Methods\Assignment 8  - GetDatePart Methods.csproj", "{8C8E305C-55AB-434C-B86B-3815373A2D14}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab - Working With StreamReader and Writer", "FileIO\Lab - Working With StreamReader and Writer.csproj", "{BF59730C-A0E7-4C32-B620-BB5C2CBD814F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 9 - Working With StreamReader and Writer", "FileIO\Lab 9 - Working With StreamReader and Writer.csproj", "{BF59730C-A0E7-4C32-B620-BB5C2CBD814F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 1 - Hello World", "Lab 1 - Hello World\Lab 1 - Hello World.csproj", "{C6435C13-9BF4-4791-9C65-E52076CB5A26}"
 EndProject
@@ -52,9 +52,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 6 - Parallel Arrays", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice Extra with Loops", "Practice Extra with Loops\Practice Extra with Loops.csproj", "{9CF14D20-C554-4A26-BA2D-AB1B5FEC4761}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab - LINQ Expressions", "Lab - LINQ Expressions\Lab - LINQ Expressions.csproj", "{4FE3D66E-B34F-4584-BA20-D34B9C79E08D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 7 - LINQ Expressions", "Lab - LINQ Expressions\Lab 7 - LINQ Expressions.csproj", "{4FE3D66E-B34F-4584-BA20-D34B9C79E08D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1", "Week1\Week1.csproj", "{8C7338B6-F98E-4340-99A8-E2DA47F84B94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week1", "Week1\Week1.csproj", "{8C7338B6-F98E-4340-99A8-E2DA47F84B94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

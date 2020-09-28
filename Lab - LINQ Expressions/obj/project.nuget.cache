@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vHC+tn4/b7QMxesGrqhXdo9jcgW0GR6BTzGTcFzTcNxO1/h79bM4OT3qiBEv0Z0ZAjUOa+DjR7sP6w2ivEA/lQ==",
+  "dgSpecHash": "uhskCkZ8JPMxfMshzziJ4j2XWGhVqn2wKcRLUsqAjjfLl/6WzpusI5TEwJMOkunxb7FngqgLZBOqi8KWfSnQxQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - LINQ Expressions\\Lab - LINQ Expressions.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gtjam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Projects\\SD104-CSharp\\Week 1 and 2\\Lab - LINQ Expressions\\Lab 7 - LINQ Expressions.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
